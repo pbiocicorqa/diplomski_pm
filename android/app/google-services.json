@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794050174006",
+    "project_id": "pm-alat-8b53c",
+    "storage_bucket": "pm-alat-8b53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794050174006:android:51f093943519aedf918c97",
+        "android_client_info": {
+          "package_name": "com.petarbiocic.pm_alat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd613pnILcxiRRgeAFBcdsnJi__59RaZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
